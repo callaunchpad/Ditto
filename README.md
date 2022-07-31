@@ -1,0 +1,2 @@
+# Ditto
+Pokemon-ify pets!
