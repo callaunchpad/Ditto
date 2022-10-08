@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da517f85-7917-49e6-bd7d-57c277b2a16e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/PreProcessingClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/PreProcessingClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/generate_grid_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/generate_grid_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/generate_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/generate_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/resize_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/resize_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/train_generator/DatasetClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/generator/DatasetClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/train_generator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/generator/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/train_generator/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/generator/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/train_generator/train_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/generator/train_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/train_generator/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/generator/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26IH03zBQmPVEXmSCA7SwO6pF6O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sesko\Desktop\test\GAN-Pokemon\train_generator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.generate_images">
+    <configuration name="cnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAN-Pokemon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/cnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAN-Pokemon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pokemon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pokemon/generate_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resize_images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAN-Pokemon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/resize_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.generate_images" />
+        <item itemvalue="Python.resize_images" />
+        <item itemvalue="Python.cnn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da517f85-7917-49e6-bd7d-57c277b2a16e" name="Default Changelist" comment="" />
+      <created>1647103955456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647103955456</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Clean code">
+      <created>1647104411540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647104411540</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Readme">
+      <created>1647104531441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647104531441</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1647104567168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647104567168</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Clean the project">
+      <created>1647106042570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647106042570</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change interpolation to bilinear and save adapt. cnn model">
+      <created>1647197127477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647197127477</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cnn_model">
+      <created>1647197708454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647197708454</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clean code" />
+    <MESSAGE value="Readme" />
+    <MESSAGE value="init" />
+    <MESSAGE value="Clean the project" />
+    <MESSAGE value="Change interpolation to bilinear and save adapt. cnn model" />
+    <MESSAGE value="cnn_model" />
+    <option name="LAST_COMMIT_MESSAGE" value="cnn_model" />
+  </component>
+</project>

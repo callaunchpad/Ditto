@@ -1,0 +1,8 @@
+pip
+tqdm
+numpy
+pathlib
+tensorboard
+matplotlib
+torchvision>=0.10.0
+pytorch-fid
