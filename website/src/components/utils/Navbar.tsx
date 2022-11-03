@@ -7,15 +7,17 @@ import NextLink from "./NextLink";
 // this allows styling links with Chakra while also using the Next router
 export default function Navbar() {
   return (
-    <Flex backgroundColor="ditto.veryLightBlue">
+    <Flex backgroundColor="ditto.lightPurple" borderBottomRadius="20">
     <HStack p={4}>
         <NextLink href="/">
-          <Heading>Ditto</Heading>
+          <Box p={3} backgroundColor="ditto.purple" borderRadius={10}>
+            <Heading color="white">DITTO</Heading>
+          </Box>
         </NextLink>
       </HStack>
       <Spacer />
       <HStack p={4}>
-        <ButtonLink href="/test" variant="blue">
+        <ButtonLink href="/about" variant="blue">
           About
         </ButtonLink>
         <ButtonLink href="/test" variant="blue">

@@ -9,11 +9,13 @@ import {
   ModalBody,
   ModalFooter,
   Center,
+  Box,
 } from "@chakra-ui/react";
 import NextNProgress from "nextjs-progressbar";
 import { ErrorBoundary } from "react-error-boundary";
 import { WarningTwoIcon } from "@chakra-ui/icons";
 
+import '../styles.css'
 import { theme } from "../utils/theme";
 import Navbar from "../components/utils/Navbar";
 
@@ -42,8 +44,10 @@ export default function DittoApp({ Component, pageProps }: AppProps) {
         onError={console.error}
       >
         <NextNProgress height={5} />
-        <Navbar></Navbar>
-        <Component {...pageProps} />
+        <Box backgroundColor="ditto.veryLightPurple" minHeight='calc(100vh)'>
+          <Navbar></Navbar>
+          <Component {...pageProps}/>
+        </Box>
       </ErrorBoundary>
     </ChakraProvider>
   );

@@ -6,6 +6,10 @@ export const theme = extendTheme({
       blue: "#1e40af",
       lightBlue: "#456ced",
       veryLightBlue: "#99e6ff",
+      purple: "#9c1092",
+      lighterPurple: "#d618c9",
+      lightPurple: "#f08be9",
+      veryLightPurple: "#f2d2f7",
     },
   },
   fonts: {
@@ -43,12 +47,13 @@ export const theme = extendTheme({
     Button: {
       variants: {
         blue: {
-          bg: "ditto.blue",
+          bg: "ditto.purple",
+          borderRadius: "20",
           color: "white",
           _hover: {
-            bg: "ditto.lightBlue",
+            bg: "ditto.lighterPurple",
             _active: {
-              bg: "ditto.lightBlue",
+              bg: "ditto.veryLightPurple",
             },
           },
         },
