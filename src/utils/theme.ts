@@ -13,8 +13,8 @@ export const theme = extendTheme({
     },
   },
   fonts: {
-    heading: "Inter, sans-serif",
-    body: "Inter, sans-serif",
+    heading: "DM Sans, sans-serif",
+    body: "DM Sans, sans-serif",
   },
   styles: {
     global: {
