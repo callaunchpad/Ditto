@@ -23,8 +23,11 @@ export default function Navbar() {
         <ButtonLink href="/test" variant="blue">
           Test Model
         </ButtonLink>
-        <ButtonLink href="/test" variant="blue">
+        <ButtonLink href="/battle" variant="blue">
           Battle
+        </ButtonLink>
+        <ButtonLink href="/topten" variant="blue">
+          Top Ten
         </ButtonLink>
       </HStack>
     </Flex>
